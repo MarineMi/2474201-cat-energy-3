@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
-* Студент: [Марина Васюкова](https://up.htmlacademy.ru/adaptive-individual/3/user/2474201).
-* Наставник: `Неизвестно`.
+- Студент: [Марина Васюкова](https://up.htmlacademy.ru/adaptive-individual/3/user/2474201).
+- Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra).
 
 ---
 
